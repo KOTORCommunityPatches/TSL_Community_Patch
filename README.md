@@ -6,6 +6,7 @@
 **Contact: afuturepilotis@gmail.com or PM at deadlystream.com**
 
 Original Release Date: 06/14/2018
+
 Current Version Release Date: TBA
 
 ## 1. Description:
