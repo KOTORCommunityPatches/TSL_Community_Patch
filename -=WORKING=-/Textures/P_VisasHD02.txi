@@ -1,0 +1,2 @@
+mipmap 0
+envmaptexture mycube
