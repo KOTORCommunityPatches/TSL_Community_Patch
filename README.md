@@ -32,7 +32,8 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 ### DarthParametric:
 * There are multiple issues with the Harbinger level geometry: [Harbinger Hull Fixes 1.1](https://deadlystream.com/files/file/1374-harbinger-hull-fixes/)
 * The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
-* There are some minor level geometry issues in the Peragus Administration level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
+* There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
+* The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
 
 ### JCarter426:
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
@@ -57,6 +58,9 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 
 ### Squall Lionheart:
 * PMHH01 has some issues: [PMHH01 Fixed](https://deadlystream.com/files/file/439-pmhh01-fixed/)
+
+### The Sith Lords Restored Content Mod (TSLRCM) Team
+* The male Jedi Master robes (PMBNM) had an incorrect OdysseyBase name
 
 ### ZimmMaster:
 * The walking and running animations are janky: [Movement Animation Fix for Both KOTOR and TSL](https://deadlystream.com/files/file/465-movement-animation-fix-for-both-kotor-and-tsl/)
