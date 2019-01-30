@@ -34,6 +34,7 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
 * There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
 * The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
+* The female player head PFHA05 has incorrect UVs for the upper teeth, causing them to be flesh-coloured (reported by ebmar)
 
 ### JCarter426:
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
