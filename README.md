@@ -41,8 +41,9 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
 * The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
 * The female player head PFHA05 has incorrect UVs for the upper teeth, causing them to be flesh-coloured (reported by ebmar)
-* The Ebon Hawk's medbay has some bad lightmaps and the camera can clip through its walls (suggested by JCarter426) [ISSUE #4](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
-* The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/4)
+* The Ebon Hawk's medbay has some bad lightmaps and the camera can clip through its walls (suggested by JCarter426) [ISSUE #4](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/4)
+* The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
+* Mandalore is missing the helmet filter effect on one of his lines (reported by Sniggles) [ISSUE #8](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/8)
 
 ### JCarter426:
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
