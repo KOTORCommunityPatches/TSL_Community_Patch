@@ -9,6 +9,7 @@
 * Added a fix for incorrect UVs on PFHA05's upper teeth
 * Added a fix for the Ebon Hawk medbay lightmaps (ported K1's version, with some cleanup) and fixed wall collision
 * Added a fix for missing skybox in 208TEL
+* Added a fix for one of Mandalore's lines missing the helmet filter (ported from the Xbox version)
 
 ### Changes
 * Cleaned up changes.ini, removing extraneous editor data and orphaned entries (removed ~500 lines)
