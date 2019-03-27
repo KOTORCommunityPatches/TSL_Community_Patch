@@ -16,6 +16,7 @@ Things in this category address bugs and other problems that probably weren't in
 - There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
 - The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
 - Mandalore is missing the helmet filter effect on one of his lines (reported by Sniggles) [ISSUE #8](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/8)
+- War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)
 
 ## 2. Enhancements
 Things in this category are intended to enhance the game experience. This might mean restoring cut content, improving aesthetic consistency, addressing anything that seemed out of place, or just getting rid of things that annoyed some people. These changes may go a little beyond developer intent, but they only utilize existing game assets.
