@@ -40,6 +40,7 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
 * There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
 * The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
+* The female player head PFHA04 has some clipping issues with the right eyeball and eyelid (reported by Soka) [ISSUE #11](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/11)
 * The female player head PFHA05 has incorrect UVs for the upper teeth, causing them to be flesh-coloured (reported by ebmar)
 * The Ebon Hawk's medbay has some bad lightmaps and the camera can clip through its walls (suggested by JCarter426) [ISSUE #4](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/4)
 * The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
