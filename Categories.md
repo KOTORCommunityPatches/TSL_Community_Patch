@@ -9,6 +9,7 @@ Things in this category address bugs and other problems that probably weren't in
 - PMHH01 has some issues: [PMHH01 Fixed](https://deadlystream.com/files/file/439-pmhh01-fixed/)
 - The broken item icon, and Grenn's case icon are incorrect
 - The Ebon Hawk has a couple panels with bad models: [Ebon Hawk Model Fixes 2.0](https://deadlystream.com/files/file/1033-ebon-hawk-model-fixes/)
+- The female player head PFHA04 has some clipping issues with the right eyeball and eyelid (reported by Soka) [ISSUE #11](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/11)
 - The female player head PFHA05 has incorrect UVs for the upper teeth, causing them to be flesh-coloured (reported by ebmar)
 - The male Jedi Master robes (PMBNM) had an incorrect OdysseyBase name
 - The Serocco guard has a VO that used the wrong actor: [Serroco Guard VO Fix 1.0](https://deadlystream.com/files/file/1107-serocco-guard-vo-fix/)
