@@ -11,6 +11,7 @@
 * Added a fix for missing skybox in 208TEL
 * Added a fix for one of Mandalore's lines missing the helmet filter (ported from the Xbox version)
 * Added a fix for War Droid racetex variants having their blaster texture overridden by the body texture by swapping out integrated blaster mesh for external reference
+* Added a fix for right eyeball/eyelid clipping issues with PFHA04
 
 ### Changes
 * Cleaned up changes.ini, removing extraneous editor data and orphaned entries (removed ~500 lines)
