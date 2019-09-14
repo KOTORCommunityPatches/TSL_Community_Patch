@@ -46,6 +46,7 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
 * Mandalore is missing the helmet filter effect on one of his lines (reported by Sniggles) [ISSUE #8](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/8)
 * War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)
+* When Kreia first wakes up in the Peragus Administration Level morgue, it's possible to briefly see her body disappear [ISSUE #32](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/32)
 
 ### JCarter426:
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
