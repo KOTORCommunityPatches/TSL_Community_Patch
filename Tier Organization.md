@@ -12,6 +12,7 @@ These are fixes for other issues that were likely unintended. They don't break t
 * Mandalore is missing the helmet filter effect on one of his lines (reported by Sniggles) [ISSUE #8](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/8)
 * One of the player heads wasn't able to blink or move his eyes: [PMHC06 Fixed for TSL](https://deadlystream.com/files/file/1154-pmhc06-fixed-for-tsl/)
 * PMHH01 has some issues: [PMHH01 Fixed](https://deadlystream.com/files/file/439-pmhh01-fixed/)
+* T3-M4 was missing VO and some Gand VO was misplaced: [JC's VO Fix for K2] (https://deadlystream.com/files/file/1339-jcs-vo-fix-for-k2/)
 * The broken item icon, and Grenn's case icon are incorrect
 * The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
 * The Ebon Hawk has a couple panels with bad models: [Ebon Hawk Model Fixes 2.0](https://deadlystream.com/files/file/1033-ebon-hawk-model-fixes/)
@@ -21,18 +22,15 @@ These are fixes for other issues that were likely unintended. They don't break t
 * The Serocco guard has a VO that used the wrong actor: [Serroco Guard VO Fix 1.0](https://deadlystream.com/files/file/1107-serocco-guard-vo-fix/)
 * There are multiple issues with the Harbinger level geometry: [Harbinger Hull Fixes 1.1](https://deadlystream.com/files/file/1374-harbinger-hull-fixes/)
 * There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
+* Various fixes for which feats characters can select: [JC's Feat Fixes for K2 1.1](https://deadlystream.com/files/file/1436-jcs-feat-fixes-for-k2/)
 * War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)
 * When Kreia first wakes up in the Peragus Administration Level morgue, it's possible to briefly see her body disappear [ISSUE #32](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/32)
+
 
 # Tier 2
 ## Atmospheric/Lore/Logical Changes
 The issues these address aren't exactly problems, but they still bothered people. Changes in this category go a bit beyond developer intent, basically player/modder interpretation of how things should have been.
-* A number of textures don't use shaders: [Textures Improvement Project](https://deadlystream.com/files/file/462-textures-improvement-project/)
 * In the prologue there are remote clones instead of sensor droids: [Prologue Sensor Droids Fix](https://deadlystream.com/files/file/430-prologue-sensor-droids-fix/)
-* The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
-* The HKs and T3M4 droids don't have shaders: [JC's Shader Fixes for K2 1.1](https://deadlystream.com/files/file/1284-jcs-shader-fixes-for-k2/)
-* The model in the galaxy map for Paragus looks nothing like it: [Peragus Galaxy Map Change](https://deadlystream.com/files/file/336-peragus-galaxy-map-change/)
-* The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
 
 ## Annoyance Fixes
@@ -42,6 +40,11 @@ These things annoyed players.
 # Tier 3
 ## Visual Improvements
 Sometimes the game assets aren't great. These changes correct problems with them, and may require modder-created assets. But the changes are minimal; they just make the game look how it ought to look.
+* A number of textures don't use shaders: [Textures Improvement Project](https://deadlystream.com/files/file/462-textures-improvement-project/)
+* T3-M4 and the HK units lacked shaders: [JC's Shader Fixes for K2 1.1](https://deadlystream.com/files/file/1284-jcs-shader-fixes-for-k2/)
+* The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
+* The model in the galaxy map for Paragus looks nothing like it: [Peragus Galaxy Map Change](https://deadlystream.com/files/file/336-peragus-galaxy-map-change/)
+* The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
 * The walking and running animations are janky: [Movement Animation Fix for Both KOTOR and TSL](https://deadlystream.com/files/file/465-movement-animation-fix-for-both-kotor-and-tsl/)
 
 ## Ported Content

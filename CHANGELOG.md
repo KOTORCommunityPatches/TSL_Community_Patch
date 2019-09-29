@@ -13,6 +13,8 @@
 * Added a fix for War Droid racetex variants having their blaster texture overridden by the body texture by swapping out integrated blaster mesh for external reference
 * Added a fix for right eyeball/eyelid clipping issues with PFHA04
 * Revised the script that starts the initial cutscene with Kreia in the Peragus Administration Level morgue to hide her disappearing body
+* Incorporated JC's Feat Fixes
+* Incorporated JC's VO Fix
 
 ### Changes
 * Cleaned up changes.ini, removing extraneous editor data and orphaned entries (removed ~500 lines)
