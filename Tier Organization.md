@@ -44,8 +44,9 @@ Sometimes the game assets aren't great. These changes correct problems with them
 * T3-M4 and the HK units lacked shaders: [JC's Shader Fixes for K2 1.1](https://deadlystream.com/files/file/1284-jcs-shader-fixes-for-k2/)
 * The head texture for Visas has a poor quality mask for its environment map and incorrectly uses her skin colour for the inside of her mouth
 * The model in the galaxy map for Paragus looks nothing like it: [Peragus Galaxy Map Change](https://deadlystream.com/files/file/336-peragus-galaxy-map-change/)
-* The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
+* The Republic soldier body models have been improved: [JC’s Republic Soldier Fix for K2 1.1](https://deadlystream.com/files/file/1181-jcs-republic-soldier-fix-for-k2/) (with DarthParametric lending a hand)
 * The walking and running animations are janky: [Movement Animation Fix for Both KOTOR and TSL](https://deadlystream.com/files/file/465-movement-animation-fix-for-both-kotor-and-tsl/)
+* The Zeison Sha armour for males (PMBMM) is unable to properly perform a two-handed grip during weapon animations: [Get a Grip! Zeison Sha Armour Male Model Fix 1.0](https://deadlystream.com/files/file/1362-get-a-grip-zeison-sha-armour-male-model-fix/)
 
 ## Ported Content
 Everything here involves content ported from another game.

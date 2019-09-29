@@ -15,6 +15,7 @@
 * Revised the script that starts the initial cutscene with Kreia in the Peragus Administration Level morgue to hide her disappearing body
 * Incorporated JC's Feat Fixes
 * Incorporated JC's VO Fix
+* Incorporated JC's Republic Soldier Fix
 
 ### Changes
 * Cleaned up changes.ini, removing extraneous editor data and orphaned entries (removed ~500 lines)

@@ -53,6 +53,7 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * T3-M4 and the HK units lacked shaders: [JC's Shader Fixes for K2 1.1](https://deadlystream.com/files/file/1284-jcs-shader-fixes-for-k2/)
 * Various fixes for which feats characters can select: [JC's Feat Fixes for K2 1.1](https://deadlystream.com/files/file/1436-jcs-feat-fixes-for-k2/)
 * T3-M4 was missing VO and some Gand VO was misplaced: [JC's VO Fix for K2] (https://deadlystream.com/files/file/1339-jcs-vo-fix-for-k2/)
+* The Republic soldier body models have been improved: [JC’s Republic Soldier Fix for K2 1.1](https://deadlystream.com/files/file/1181-jcs-republic-soldier-fix-for-k2/) (with DarthParametric lending a hand)
 
 ### Kainzorus Prime:
 * Boma beasts have black between their teeth: [Boma Beast Teeth Fix 1.0](https://deadlystream.com/files/file/338-boma-beast-teeth-fix/)
