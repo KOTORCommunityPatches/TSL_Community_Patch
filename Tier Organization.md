@@ -22,6 +22,7 @@ These are fixes for other issues that were likely unintended. They don't break t
 * The Serocco guard has a VO that used the wrong actor: [Serroco Guard VO Fix 1.0](https://deadlystream.com/files/file/1107-serocco-guard-vo-fix/)
 * There are multiple issues with the Harbinger level geometry: [Harbinger Hull Fixes 1.1](https://deadlystream.com/files/file/1374-harbinger-hull-fixes/)
 * There are some minor level geometry issues in the Peragus Administration Level: [Peragus Administration Level Room Model Fixes 1.0](https://deadlystream.com/files/file/1275-peragus-administration-level-room-model-fixes/)
+* TSLRCM’s Zhug encounter on Nar Shaddaa had a couple issues: [JC's Zhug Attack Fix for TSLRCM 1.1(https://deadlystream.com/files/file/1328-jcs-zhug-attack-fix-for-tslrcm/)
 * Various fixes for which feats characters can select: [JC's Feat Fixes for K2 1.1](https://deadlystream.com/files/file/1436-jcs-feat-fixes-for-k2/)
 * War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)
 * When Kreia first wakes up in the Peragus Administration Level morgue, it's possible to briefly see her body disappear [ISSUE #32](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/32)
