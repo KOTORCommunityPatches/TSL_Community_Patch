@@ -37,6 +37,7 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * The female player head PFHA04 has some clipping issues with the right eyeball and eyelid (reported by Soka) [ISSUE #11](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/11)
 * The female player head PFHA05 has incorrect UVs for the upper teeth, causing them to be flesh-coloured (reported by ebmar)
 * The Ebon Hawk's medbay has some bad lightmaps and the camera can clip through its walls (suggested by JCarter426) [ISSUE #4](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/4)
+* The Ebon Hawk's interior had various minor additional geometry/lightmap issues not addressed by bead-v's mod [ISSUE #49](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/49)
 * The Bumani Exchange Corp. module lacked a skybox/starscape (reported by JCarter426) [ISSUE #6](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/6)
 * Mandalore is missing the helmet filter effect on one of his lines (reported by Sniggles) [ISSUE #8](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/8)
 * War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)

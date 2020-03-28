@@ -1,5 +1,12 @@
 # CHANGELOG
-## v1.5 - TBA 2019
+## v1.6 - TBA 202x
+### Additions
+* Added additional Ebon Hawk geometry/lightmap fixes
+
+### Changes
+
+
+## v1.5 - December 2019
 ### Additions
 * Added additional Harbinger geometry fixes
 * Added Peragus Administration Level geometry fixes
