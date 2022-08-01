@@ -1,19 +1,24 @@
 # KOTOR II The Sith Lords Community Patch
-**Maintainer: A Future Pilot**
 
-**Assistant Editors: JCarter426, DarthParametric**
+**Original Mod Development/Inception: A Future Pilot**
+
+**Current Editor/Maintainer: JCarter426**
 
 **Contact: afuturepilotis@gmail.com or PM at deadlystream.com**
 
-Original Release Date: 2018-06-14
+Original Release Date: *June 14, 2018*
 
-Current Version Release Date: 2019-12-29
+Prior Version Release Date: *December 29, 2019*
+
+Current Version: *v1.6.0*
+
+Release Date: *TBA*
 
 ## 1. Description:
 This mod is a compilation of various bugfix mods put together with the intention of fixing all the known bugs with the last official patch of KOTOR 2. A huge thanks to all of the mod authors who created these mods, and gave me permission to include them in this patch.
 
 ## 2. Install:
-Run INSTALL.exe and navigate to your K2 install folder. Generally speaking, this mod should be installed before anything else, except mods that do hard edits/overwrites of 2DA, TLK or MOD (module) files.
+Run INSTALL.exe and navigate to your K2 install folder. Generally speaking, this mod should be installed before anything else, except TSLRCM and mods that do hard edits/overwrites of 2DA, TLK or MOD (module) files.
 
 ## 3. Uninstall:
 Given the complexity of this mod, a clean install of KOTOR II is recommended. However, you can check through the installation log file if you wish to undo the changes made.
@@ -82,19 +87,25 @@ These are the currently known bugs with KOTOR II or the mod that the K2CP is loo
 
 https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues
 
-If you find any others, please report them.
+Please report any bugs or other problems on the Github issue page or Deadly Stream.
 
 https://deadlystream.com/files/file/1280-kotor-2-community-patch/
 
 ## 6. Permissions:
 Due to this mod being a compilation from many different authors, please do not distribute it. 
 
-## 7. Credits:
-* All of the mod authors who have helped make this patch a reality. I can't say it enough - Thank you!
-* Fred Tetra - For creating his awesome KOTOR Tool that makes us modders job a lot easier.
-* Stoffe - For creating TSLPatcher
-* Snigaroo - For maintaining awesome mod lists on the /r/kotor subreddit, and for putting up with my many recommendations
+## 7. Special Thanks/Acknowledgements:
+* All of the mod authors who have helped make this patch a reality - thank you!
+* Fred Tetra - For KOTOR Tool
+* tk102 - For DLGEditor and K-GFF
+* JdNoa/Dashus - For DeNCS
+* Stoffe - For TSLPatcher
+* bead-v - For MDLEdit and KOTORMax
+* ndix UR - For TGA2TPC, TPCView, and MDLOps v1.0+
+* seedhartha - For KOTORBlender fork for Blender 2.8+
+* Fair Strides - For various tools and updates to older tools
+* DrMcCoy - For Xoreos Tools
+* Snigaroo - For maintaining mod builds on the /r/kotor subreddit
 * danil-ch - For the original info.rtf template
-* Fair Strides - For bundling up his tools and making them available
 
 **THIS MODIFICATION IS PROVIDED AS-IS AND IS NOT SUPPORTED BY BIOWARE/OBSIDIAN ENTERTAINMENT OR LUCASARTS OR ANY LICENSERS/SPONSORS OF THE MENTIONED COMPANIES. USE OF THIS MODIFICATION IS AT YOUR OWN RISK AND THE ABOVE MENTIONED COMPANIES OR THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR COMPUTER FOR THE USAGE OF THIS MODIFICATION.**
