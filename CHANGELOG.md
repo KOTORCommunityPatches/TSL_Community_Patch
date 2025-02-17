@@ -1,12 +1,30 @@
 # CHANGELOG
 
-## v1.6 - TBA 202x
+## v1.6 - February 2025
 
 ### Additions
-* Added additional Ebon Hawk geometry/lightmap fixes
+* Incorporated GearHead's KotOR2 Droid Claw Fix and KotOR2 HK-47 Power Blast Fix
+* Incorporated LOTO's Female Asian Head 6 Dark Side Texture Fix
+* Incorporated Thor110's Dantooine & Coruscant Model Fix, Gamorrean Shadow Fix, and Sentry Droid Animation Fix
+* Lengthened Malak's lightsaber
 
 ### Changes
+* Reflected update to PapaZinos' Ultimate Peragus Models Repair
+* Reduced damage of mining lasers
 
+## v1.5.2 - December 2022
+
+### Additions
+* Incorporated Ashton Scorpius' TSL Jedi Malak Mouth Fix
+* Incorporated several of PapaZinos' model fixes
+* Corrected Khoonda's flag based on a suggestion from FF97's Khoonda Flag Fix
+* Restored strength gauntlets
+* Corrected some items to have the same stats across all areas of Peragus
+* Fixed an issue with the stealth section of the jungle tomb quest
+
+### Changes
+* Converted some textures from TGA/TXI to TPC
+* Reflected updates to JC's Feat Fixes and JC's VO Fixes
 
 ## v1.5 - December 2019
 
@@ -31,17 +49,3 @@
 ### Changes
 * Cleaned up changes.ini, removing extraneous editor data and orphaned entries (removed ~500 lines)
 * Edited readme and info RTFs, altering formatting and adding updated mod contributions
-
-## v1.5.2 - December 2022
-
-### Additions
-* Incorporated Ashton Scorpius' TSL Jedi Malak Mouth Fix
-* Incorporated several of PapaZinos' model fixes
-* Corrected Khoonda's flag based on a suggestion from FF97's Khoonda Flag Fix
-* Restored strength gauntlets
-* Corrected some items to have the same stats across all areas of Peragus
-* Fixed an issue with the stealth section of the jungle tomb quest
-
-### Changes
-* Converted some textures from TGA/TXI to TPC
-* Reflected updates to JC's Feat Fixes and JC's VO Fixes
