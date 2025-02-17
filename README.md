@@ -8,9 +8,9 @@
 
 Original Release Date: *June 14, 2018*
 
-Release Date: *December 10, 2022*
+Release Date: *February 17, 2025*
 
-Current Version: *v1.5.2*
+Current Version: *v1.6.0*
 
 ## 1. Description:
 This mod is a compilation of various bugfix mods put together with the intention of fixing all the known bugs with the last official patch of KOTOR 2. A huge thanks to all of the mod authors who created these mods, and gave me permission to include them in this patch.
@@ -49,8 +49,12 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)
 * When Kreia first wakes up in the Peragus Administration Level morgue, it's possible to briefly see her body disappear [ISSUE #32](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/32)
 
-### FF97
+### FF97:
 * Khoonda’s flag was missing its texture: [Khoonda Flag Fix 1.0.0](https://deadlystream.com/files/file/1388-khoonda-flag-fix/)
+
+### GearHead:
+* Droids were erroneously unable to equip claw weapons: [KotOR2 Droid Claw Fix 1.0.0](https://deadlystream.com/files/file/2446-kotor2-droid-claw-fix/)
+* Droids wielding two blasters fired only one shot when using Power Blast [KotOR2 HK-47 Power Blast Fix 1.0.0](https://deadlystream.com/files/file/2451-kotor2-hk-47-power-blast-fix/)
 
 ### JCarter426:
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
@@ -62,6 +66,7 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * Strength Gauntlets were missing from random loot.
 * Peragus items have had their stats unified across all areas. They will also now stack in the inventory menu.
 * Party puppets such as Bao-Dur’s remote would erroneously trip the stealth sensor in the jungle tomb mission (reported by Sniggles)
+* Malak's flashback lightsaber has a long blade, matching its appearance in the first game (inspired by Marius Fett's [Secret Tomb Lightsaber Fixes](https://deadlystream.com/files/file/2207-secret-tomb-lightsaber-fixes/))
 
 ### Kainzorus Prime:
 * Boma beasts have black between their teeth: [Boma Beast Teeth Fix 1.0](https://deadlystream.com/files/file/338-boma-beast-teeth-fix/)
@@ -69,6 +74,12 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 
 ### LiliArch:
 * The broken item icon, and Grenn's case icon are incorrect
+
+### LoneWanderer:
+* The damage penalty for mining lasers did not actually apply, so the mining lasers have been implemented as a different item type.
+
+### LOTO:
+* Texture fixes: [Female Asian Head 6 Dark Side Texture Fix 1.0.0](https://deadlystream.com/files/file/2261-female-asian-head-6-dark-side-texture-fix/)
 
 ### Marauder:
 * A number of items have wrong descriptions or properties: [Marauder Fix Pack 1.0.3](https://deadlystream.com/files/file/942-marauder-fix-pack/)
@@ -95,8 +106,13 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 ### Squall Lionheart:
 * PMHH01 has some issues: [PMHH01 Fixed](https://deadlystream.com/files/file/439-pmhh01-fixed/)
 
-### The Sith Lords Restored Content Mod (TSLRCM) Team
+### The Sith Lords Restored Content Mod (TSLRCM) Team:
 * The male Jedi Master robes (PMBNM) had an incorrect OdysseyBase name
+
+### Thor111:
+* Model fixes: [Dantooine & Coruscant Model Fix 1.0.0](https://deadlystream.com/files/file/2457-dantooine-coruscant-model-fix/) (Dantooine only)
+* Model fixes: [Gamorrean Shadow Fix 1.0.1](https://deadlystream.com/files/file/2368-gammorean-shadow-fix/)
+* Model fixes: [Sentry Droid Animation Fix 1.0.0](https://deadlystream.com/files/file/2367-sentry-droid-animation-fix/)
 
 ### ZimmMaster:
 * The walking and running animations are janky: [Movement Animation Fix for Both KOTOR and TSL](https://deadlystream.com/files/file/465-movement-animation-fix-for-both-kotor-and-tsl/)
@@ -124,7 +140,7 @@ Due to this mod being a compilation from many different authors, please do not d
 * seedhartha - For KOTORBlender fork for Blender 2.8+
 * Fair Strides - For various tools and updates to older tools
 * DrMcCoy - For Xoreos Tools
-* Snigaroo - For maintaining mod builds on the /r/kotor subreddit
+* Snigaroo - For maintaining mod builds on the [KOTOR Community Portal](https://kotor.neocities.org)
 * danil-ch - For the original info.rtf template
 
 **THIS MODIFICATION IS PROVIDED AS-IS AND IS NOT SUPPORTED BY BIOWARE/OBSIDIAN ENTERTAINMENT OR LUCASARTS OR ANY LICENSERS/SPONSORS OF THE MENTIONED COMPANIES. USE OF THIS MODIFICATION IS AT YOUR OWN RISK AND THE ABOVE MENTIONED COMPANIES OR THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR COMPUTER FOR THE USAGE OF THIS MODIFICATION.**
