@@ -1,11 +1,16 @@
 # CHANGELOG
 
+## v1.6.1 - June 2026
+
+### Removed
+* Bao Dur & Force Fields was reportedly making it difficult for force fields to be bashed.
+
 ## v1.6 - February 2025
 
 ### Additions
 * Incorporated GearHead's KotOR2 Droid Claw Fix and KotOR2 HK-47 Power Blast Fix
 * Incorporated LOTO's Female Asian Head 6 Dark Side Texture Fix
-* Incorporated Thor110's Dantooine & Coruscant Model Fix, Gamorrean Shadow Fix, and Sentry Droid Animation Fix
+* Incorporated Thor110's Dantooine & Coruscant Model Fix, Gamorrean Shadow Fix, Sentry Droid Animation Fix, and Bao Dur & Force Fields.
 * Lengthened Malak's lightsaber
 
 ### Changes

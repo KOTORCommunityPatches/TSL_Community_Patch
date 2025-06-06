@@ -1,16 +1,8 @@
 # KOTOR II The Sith Lords Community Patch
 
-**Original Mod Development/Inception: A Future Pilot**
+Current Version: *v1.6.1*
 
-**Current Editor/Maintainer: JCarter426**
-
-**Contact: afuturepilotis@gmail.com or PM at deadlystream.com**
-
-Original Release Date: *June 14, 2018*
-
-Release Date: *February 17, 2025*
-
-Current Version: *v1.6.0*
+Release Date: *2026-06-06*
 
 ## 1. Description:
 This mod is a compilation of various bugfix mods put together with the intention of fixing all the known bugs with the last official patch of KOTOR 2. A huge thanks to all of the mod authors who created these mods, and gave me permission to include them in this patch.
