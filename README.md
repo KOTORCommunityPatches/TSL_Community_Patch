@@ -8,11 +8,9 @@
 
 Original Release Date: *June 14, 2018*
 
-Prior Version Release Date: *December 29, 2019*
+Release Date: *December 10, 2022*
 
-Current Version: *v1.6.0*
-
-Release Date: *TBA*
+Current Version: *v1.5.2*
 
 ## 1. Description:
 This mod is a compilation of various bugfix mods put together with the intention of fixing all the known bugs with the last official patch of KOTOR 2. A huge thanks to all of the mod authors who created these mods, and gave me permission to include them in this patch.
@@ -26,6 +24,9 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 ## 4. List of included mods and fixes (alphabetical by author):
 ### A Future Pilot:
 * Running in outer space makes you look like a squirrel injected with caffeine
+
+### Ashton Scorpius:
+* Malak had some oral hygiene problems: [TSL Jedi Malak Mouth Fix 1.1.0](https://deadlystream.com/files/file/1444-tsl-jedi-malak-mouth-fix/)
 
 ### bead-v:
 * The Ebon Hawk has a couple panels with bad models: [Ebon Hawk Model Fixes 2.0](https://deadlystream.com/files/file/1033-ebon-hawk-model-fixes/)
@@ -48,13 +49,19 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 * War Droid texture variants didn't properly display the blaster texture (Reported by Sith Holocron) [ISSUE #10](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/10)
 * When Kreia first wakes up in the Peragus Administration Level morgue, it's possible to briefly see her body disappear [ISSUE #32](https://github.com/KOTORCommunityPatches/TSL_Community_Patch/issues/32)
 
+### FF97
+* Khoonda’s flag was missing its texture: [Khoonda Flag Fix 1.0.0](https://deadlystream.com/files/file/1388-khoonda-flag-fix/)
+
 ### JCarter426:
 * Various issues: [JC's Minor Fixes for K2 1.5](https://deadlystream.com/files/file/1215-jcs-minor-fixes-for-k2/)
 * T3-M4 and the HK units lacked shaders: [JC's Shader Fixes for K2 1.1](https://deadlystream.com/files/file/1284-jcs-shader-fixes-for-k2/)
-* Various fixes for which feats characters can select: [JC's Feat Fixes for K2 1.1](https://deadlystream.com/files/file/1436-jcs-feat-fixes-for-k2/)
-* T3-M4 was missing VO and some Gand VO was misplaced: [JC's VO Fix for K2 1.1](https://deadlystream.com/files/file/1339-jcs-vo-fix-for-k2/)
+* Various fixes for which feats characters can select: [JC's Feat Fixes for K2 1.2](https://deadlystream.com/files/file/1436-jcs-feat-fixes-for-k2/)
+* T3-M4 was missing VO and some Gand VO was misplaced: [JC's VO Fix for K2 1.2](https://deadlystream.com/files/file/1339-jcs-vo-fix-for-k2/)
 * The Republic soldier body models have been improved: [JC’s Republic Soldier Fix for K2 1.1](https://deadlystream.com/files/file/1181-jcs-republic-soldier-fix-for-k2/) (with DarthParametric lending a hand)
 * TSLRCM’s Zhug encounter on Nar Shaddaa had a couple issues: [JC's Zhug Attack Fix for TSLRCM 1.1(https://deadlystream.com/files/file/1328-jcs-zhug-attack-fix-for-tslrcm/)
+* Strength Gauntlets were missing from random loot.
+* Peragus items have had their stats unified across all areas. They will also now stack in the inventory menu.
+* Party puppets such as Bao-Dur’s remote would erroneously trip the stealth sensor in the jungle tomb mission (reported by Sniggles)
 
 ### Kainzorus Prime:
 * Boma beasts have black between their teeth: [Boma Beast Teeth Fix 1.0](https://deadlystream.com/files/file/338-boma-beast-teeth-fix/)
@@ -72,6 +79,18 @@ Given the complexity of this mod, a clean install of KOTOR II is recommended. Ho
 
 ### ndix UR:
 * One of the player heads wasn't able to blink or move his eyes: [PMHC06 Fixed for TSL](https://deadlystream.com/files/file/1154-pmhc06-fixed-for-tsl/)
+
+### PapaZinos
+* The speeder on Nar Shaddaa clipped through the railing: [Don't Let Kreia Fly Your Speeder! 1.0.0](https://deadlystream.com/files/file/1988-dont-let-kreia-fly-your-speeder/)
+* Khoonda’s turrets had the wrong appearance: [Khoonda Turrets Model Repair 1.0.0](https://deadlystream.com/files/file/2017-khoonda-turrets-model-repair)
+* Model fixes: [Nar Shaddaa Docks Repair 1.1.0](https://deadlystream.com/files/file/1981-nar-shaddaa-docks-repair/)
+* Model fixes: [Nar Shaddaa Landing Pad Repair](https://deadlystream.com/files/file/2004-nar-shaddaa-landing-pad-repair/)
+* Model fixes: [Telos Model Repairs 1.0.0](https://deadlystream.com/files/file/2034-telos-model-repairs/)
+* Model fixes: [TSL Turrets Model Repair 1.0.0]()
+* Model fixes: [Ultimate Citadel Station Repairs 1.0.0](https://deadlystream.com/files/file/2059-ultimate-citadel-station-repairs/)
+* Model fixes: [Ultimate Ebon Hawk Repairs for TSL 2.0.2](https://deadlystream.com/files/file/2016-ultimate-ebon-hawk-repairs-for-tsl/)
+* Model fixes: [Ultimate Harbinger Repairs 2.0.1](https://deadlystream.com/files/file/2028-ultimate-harbinger-repairs/)
+* Model fixes: [Ultimate Peragus Models Repair 1.2.0](https://deadlystream.com/files/file/2010-ultimate-peragus-models-repair/)
 
 ### Squall Lionheart:
 * PMHH01 has some issues: [PMHH01 Fixed](https://deadlystream.com/files/file/439-pmhh01-fixed/)

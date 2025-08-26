@@ -1,5 +1,7 @@
 # CHANGELOG
+
 ## v1.6 - TBA 202x
+
 ### Additions
 * Added additional Ebon Hawk geometry/lightmap fixes
 
@@ -7,6 +9,7 @@
 
 
 ## v1.5 - December 2019
+
 ### Additions
 * Added additional Harbinger geometry fixes
 * Added Peragus Administration Level geometry fixes
@@ -28,3 +31,17 @@
 ### Changes
 * Cleaned up changes.ini, removing extraneous editor data and orphaned entries (removed ~500 lines)
 * Edited readme and info RTFs, altering formatting and adding updated mod contributions
+
+## v1.5.2 - December 2022
+
+### Additions
+* Incorporated Ashton Scorpius' TSL Jedi Malak Mouth Fix
+* Incorporated several of PapaZinos' model fixes
+* Corrected Khoonda's flag based on a suggestion from FF97's Khoonda Flag Fix
+* Restored strength gauntlets
+* Corrected some items to have the same stats across all areas of Peragus
+* Fixed an issue with the stealth section of the jungle tomb quest
+
+### Changes
+* Converted some textures from TGA/TXI to TPC
+* Reflected updates to JC's Feat Fixes and JC's VO Fixes
