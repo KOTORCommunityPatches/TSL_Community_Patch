@@ -1,8 +1,8 @@
 # KOTOR II The Sith Lords Community Patch
 
-Current Version: *v1.6.1*
+Current Version: *v1.6.2*
 
-Release Date: *2026-06-06*
+Release Date: *2025-09-26*
 
 ## 1. Description:
 This mod is a compilation of various bugfix mods put together with the intention of fixing all the known bugs with the last official patch of KOTOR 2. A huge thanks to all of the mod authors who created these mods, and gave me permission to include them in this patch.
