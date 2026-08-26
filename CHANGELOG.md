@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v1.6.1 - June 2026
+## v1.6.3 - August 2026
 
 ### Removed
 * Bao Dur & Force Fields was reportedly making it difficult for force fields to be bashed.
